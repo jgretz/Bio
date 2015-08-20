@@ -13,7 +13,7 @@ Josh resides in Cranberry Township with his wife, three sons, and their labradoo
 
 Conference Full
 ----------------
-Josh is the CTO at Truefit, where he helps our talented team explore new areas, expand their skills, and imagine creative approaches to creating software people love. He is passionate about exploring the cutting edge in both technology and business. Whether leading projects, speaking at conferences or volunteering, he is committed to leaving the world a little than he found it.
+JJosh is the CTO at Truefit, where he helps a talented team explore new areas, expand their skills, and imagine creative approaches to creating software people love. He is passionate about exploring the cutting edge of both technology and business, and weaving them together to make something new. Whether tinkering with code, speaking at conferences or volunteering, he is committed to leaving the world a little better than he found it.
 
 He graduated from Grove City College in 2004 with a B.S. in Computer Information Systems and a minor in business. You can still find him around campus, advising students and teaching a class as an adjunct professor.
 
@@ -21,4 +21,4 @@ Josh resides in Cranberry Township with his wife, three sons, and their labradoo
 
 Conference Short
 -----------------
-Josh is the CTO at Truefit, where he helps a talented team explore new areas, expand their skills, and imagine creative approaches to creating software people love. He is passionate about exploring the cutting edge in both technology and business. Whether leading projects, speaking at conferences or volunteering, he is committed to leaving the world a little than he found it.
+Josh is the CTO at Truefit, where he helps a talented team explore new areas, expand their skills, and imagine creative approaches to creating software people love. He is passionate about exploring the cutting edge of both technology and business, and weaving them together to make something new. Whether tinkering with code, speaking at conferences or volunteering, he is committed to leaving the world a little better than he found it.
